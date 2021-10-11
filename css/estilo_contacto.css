@@ -1,0 +1,13 @@
+body {background-color: #fbcee2;}
+.tituloprincipal {background-color: #c00358;font-size: 250%;text-align: center;}
+.subtitulo {background-color: #fc8abd;font-size: 230%;text-align: center;}
+.subtitulo1 {color: #b10552;font-size: 200%;text-align: center;text-decoration: underline;}
+header {background-color:  #D98880; border: black 8px solid;}
+
+.imagen2 {width: 50px;display: block;margin-left: auto;margin-right: auto;}
+.imagen3 {width: 50px;display: block;margin-right:auto; margin-left: auto;}
+footer  {background-color: #F75B6A;width:100%;border: black 5px solid;}
+.formulario1 {color: red; font-size: 200%;text-align: center;}
+button {background-color: red; font-size: 80%;}
+section::before {content: "COMPLETAR FORMULARIO"; font-size: 200%; color: black;}
+.formulario1::after{content: "Nos contactaremos con usted. Muchas gracias"; font-size: 50%; color: black}
